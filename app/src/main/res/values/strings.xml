@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleNotification</string>
+    <string name="sendNoti">send notification</string>
+    <string name="returnFrom">Return from Notification</string>
+    <string name="settingPg">Setting page</string>
+    <string name="warningPg">Warning page</string>
+</resources>
